@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Biswajit Debnath"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Biswajit Debnath"
+description              : &description "Researcher"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://biswa263.github.io/"
   google_plus      :
   keybase          :
   instagram        :
